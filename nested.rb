@@ -74,7 +74,7 @@ def adding_matz
         :known_for => "Unix",
         :languages => ["C"]
       }
-    } 
+    } programmer_hash[]
 # add the following information to the top level of programmer_hash
 # :yukihiro_matsumoto => {
 #   :known_for => "Ruby",

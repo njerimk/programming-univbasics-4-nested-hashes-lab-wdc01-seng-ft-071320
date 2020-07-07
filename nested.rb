@@ -88,7 +88,7 @@ def adding_matz
 
 end
 
-adding_matz
+puts adding_matz
 
 def changing_alan
   # change what Alan Kay is :known_for to the value of the alans_new_info variable. 

@@ -103,9 +103,9 @@ def changing_alan
       }
     } 
     programmer_hash[:alan_kay][:known_for]="GUI"
-    programmer_hash
+    puts programmer_hash
 end
-changing_alan
+puts changing_alan
 
 def adding_to_dennis
   # add "Assembly" to Dennis Ritchie's languages array

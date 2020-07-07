@@ -75,8 +75,8 @@ def adding_matz
         :languages => ["C"]
       }
     }
-    programmer_hash[:yukihiro_matsumoto] 
-    programmer
+    puts programmer_hash[:yukihiro_matsumoto] 
+    puts programmer
     
 # add the following information to the top level of programmer_hash
 # :yukihiro_matsumoto => {
@@ -87,6 +87,8 @@ def adding_matz
 
 
 end
+
+adding_matz
 
 def changing_alan
   # change what Alan Kay is :known_for to the value of the alans_new_info variable. 

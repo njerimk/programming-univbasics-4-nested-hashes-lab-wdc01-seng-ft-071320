@@ -76,7 +76,7 @@ def adding_matz
       }
     }
     puts programmer_hash[:yukihiro_matsumoto] 
-    puts programmer
+    puts programmer_hash
     
 # add the following information to the top level of programmer_hash
 # :yukihiro_matsumoto => {

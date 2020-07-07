@@ -73,9 +73,8 @@ def adding_matz
       :dennis_ritchie => {
         :known_for => "Unix",
         :languages => ["C"]
-      }
+      }programmer_hash[:yukihiro_matsumoto]
     }
-    programmer_hash[:yukihiro_matsumoto] 
     puts programmer_hash
     
 # add the following information to the top level of programmer_hash
